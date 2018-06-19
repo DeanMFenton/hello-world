@@ -38,3 +38,7 @@ col 1 | col 2
 xx | yy
 zz | dd
 
+
+## Emoji
+:EMOJICODE:
+:+1:
