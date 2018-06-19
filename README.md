@@ -11,3 +11,11 @@ Now lists:
 > blab block
 > and on....
 
+````
+javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
