@@ -12,8 +12,8 @@ Now lists:
 
 1. item 1
 2. item 2
-  - x
-  - y
+   - x
+   - y
 
 > blab block
 > and on....
