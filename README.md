@@ -40,5 +40,5 @@ zz | dd
 
 
 ## Emoji
-:EMOJICODE:
 :+1:
+:+2:
