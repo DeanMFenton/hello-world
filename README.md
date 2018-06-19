@@ -19,8 +19,9 @@ function fancyAlert(arg) {
   }
 }
 ````
-
+##Table
 col 1 | col 2
---------------
+------|--------
 xx | yy
 zz | dd
+
