@@ -18,7 +18,7 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
+````
 
 col 1 | col 2
 --------------
